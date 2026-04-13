@@ -3,7 +3,7 @@
 
 @title: infinity mazer
 @author: kuratus
-@discription: an endless procedurally generated maze where each level grows larger and more difficult. every maze is unique, always solvable, and challenges your navigation and memory skills
+@description: an endless procedurally generated maze where each level grows larger and more difficult. every maze is unique, always solvable, and challenges your navigation and memory skills
 @tags: ['maze' , 'dfs']
 @addedOn: 2025-01-15
 */
